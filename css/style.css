@@ -1,0 +1,25 @@
+.wrapper{
+    background: url(fundo.jpg);
+    position: relative;
+    width: 1024px;
+    height: 768px;
+
+}
+
+.div1{
+    position: absolute;
+    width: 2587px;
+    height: 246px;
+    left: -3px;
+    top: 0px;
+    background: #6a599199;
+}
+
+.div2{
+    position: absolute;
+    width: 412px;
+    height: 1435px;
+    left: 25px;
+    top: 281px;
+    background: #6a599199;
+}
