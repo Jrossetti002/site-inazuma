@@ -95,6 +95,16 @@ background: #6a599199;
 z-index: 1; 
 }
 
+.text1{
+color: #ffffff;
+font-family: Garamond;
+font-size: 25px;
+text-align: center;
+margin-top: 20vh;
+margin-left: 7vw;
+margin-right: 7vw;
+}
+
 .div-text2{
 width: 33vw;
 }
@@ -104,21 +114,21 @@ color: #ffffff;
 font-family: Garamond;
 font-size: 25px;
 text-align: left;
-margin-top: 7vh;
+margin-top: 10vh;
 margin-left: 6vw;
 margin-right: 7vw;
 }
 
-.div-text4{
+.div-text3{
 width: 31vw;
 }
 
-.text4{
+.text3{
 color: #ffffff;
 font-family: Garamond;
 font-size: 25px;
 text-align: left;
-margin-top: 12vh;
+margin-top: 15vh;
 margin-left: 6vw;
 margin-right: 7vw;   
 }
@@ -132,9 +142,9 @@ color: #ffffff;
 font-family: Garamond;
 font-size: 25px;
 text-align: left;
-margin-top: 12vh;
-margin-left: 6vw;
-margin-right: 7vw;   
+margin-top: 15vh;
+margin-left: 10vw;
+margin-right: 0vw;   
 }
     
 .div-text5{
@@ -146,9 +156,9 @@ color: #ffffff;
 font-family: Garamond;
 font-size: 25px;
 text-align: left;
-margin-top: 12vh;
-margin-left: 6vw;
-margin-right: 7vw;   
+margin-top: 20vh;
+margin-left: 8vw;
+margin-right: 0vw;   
 }
 
 .div-text6{
@@ -160,8 +170,8 @@ color: #ffffff;
 font-family: Garamond;
 font-size: 25px;
 text-align: left;
-margin-top: 12vh;
-margin-left: 6vw;
+margin-top: 14vh;
+margin-left: 8vw;
 margin-right: 7vw;   
 }
 
@@ -174,9 +184,9 @@ color: #ffffff;
 font-family: Garamond;
 font-size: 25px;
 text-align: left;
-margin-top: 8vh;
-margin-left: 6vw;
-margin-right: 7vw;   
+margin-top: 4vh;
+margin-left: 10vw;
+margin-right: 0vw;   
 }
 
 .div-text8{
@@ -188,7 +198,7 @@ color: #ffffff;
 font-family: Garamond;
 font-size: 25px;
 text-align: left;
-margin-top: 15vh;
+margin-top: 10vh;
 margin-left: 6vw;
 margin-right: 7vw;   
 }
@@ -244,7 +254,7 @@ color: #ffffff;
 font-family: Garamond;
 font-size: 25px;
 text-align: left;
-margin-top: 12vh;
+margin-top: 8vh;
 margin-left: 6vw;
 margin-right: 40vw;   
 }
@@ -263,26 +273,16 @@ margin-left: 6vw;
 margin-right: 40vw;   
 }
     
-.text1{
-color: #ffffff;
-font-family: Garamond;
-font-size: 25px;
-text-align: center;
-margin-top: 20vh;
-margin-left: 7vw;
-margin-right: 7vw;
-}
-
 .div-img2{
 position: absolute;
 width: 0vw;
 height: 0vh;
-left: 35vw;
-top: -15vh;
+left: 40vw;
+bottom: 85vh;
 }
 
 .img2{
-max-width: 530px;
+max-width: 430px;
 z-index: 3;
 left: 00vw;
 }
@@ -291,12 +291,12 @@ left: 00vw;
 position: absolute;
 width: 0vw;
 height: 0vh;
-left: 22.5vw;
+left: 27vw;
 top: -5.5vh;
 }
 
 .img3{
-max-width: 725px;
+max-width: 700px;
 z-index: 3;
 left: 00vw;
 }
@@ -305,12 +305,12 @@ left: 00vw;
 position: absolute;
 width: 0vw;
 height: 0vh;
-left: 35vw;
+left: 40vw;
 top: -5.5vh;
 }
     
 .img4{
-max-width: 500px;
+max-width: 430px;
 z-index: 3;
 left: 00vw;
 }
@@ -319,12 +319,12 @@ left: 00vw;
 position: absolute;
 width: 0vw;
 height: 0vh;
-left: 35vw;
-top: -6vh;
+left: 45vw;
+top: -10vh;
 }
         
 .img5{
-max-width: 360px;
+max-width: 330px;
 z-index: 3;
 left: 00vw;
 }
@@ -333,12 +333,12 @@ left: 00vw;
 position: absolute;
 width: 0vw;
 height: 0vh;
-left: 33vw;
-top: -6vh;
+left: 35vw;
+top: -10vh;
 }
             
 .img6{
-max-width: 569px;
+max-width: 550px;
 z-index: 3;
 left: 00vw;
 }
@@ -347,8 +347,8 @@ left: 00vw;
 position: absolute;
 width: 0vw;
 height: 0vh;
-left: 33vw;
-top: -6vh;
+left: 37vw;
+top: -13vh;
 }
                 
 .img7{
@@ -362,11 +362,11 @@ position: absolute;
 width: 0vw;
 height: 0vh;
 left: 33vw;
-top: -6vh;
+top: -10vh;
 }
                     
 .img8{
-max-width: 569px;
+max-width: 555px;
 z-index: 3;
 left: 00vw;
 }
@@ -380,7 +380,7 @@ top: -6vh;
 }
                         
 .img9{
-max-width: 569px;
+max-width: 500px;
 z-index: 3;
 left: 00vw;
 }
@@ -394,7 +394,7 @@ top: -6vh;
 }
                             
 .img10{
-max-width: 569px;
+max-width: 550px;
 z-index: 3;
 left: 00vw;
 }
@@ -404,7 +404,7 @@ position: absolute;
 width: 0vw;
 height: 0vh;
 left: 40vw;
-top: -6vh;
+top: -2vh;
 }
                                 
 .img11{
@@ -417,12 +417,12 @@ left: 00vw;
 position: absolute;
 width: 0vw;
 height: 0vh;
-left: 40vw;
+left: 45vw;
 top: -6vh;
 }
                                     
 .img12{
-max-width: 569px;
+max-width: 500px;
 z-index: 3;
 left: 00vw;
 }
@@ -432,11 +432,11 @@ position: absolute;
 width: 0vw;
 height: 0vh;
 left: 40vw;
-top: -6vh;
+top: -2vh;
 }
                                         
 .img13{
-max-width: 569px;
+max-width: 500px;
 z-index: 3;
 left: 00vw;
 }
@@ -445,7 +445,7 @@ left: 00vw;
 color: #ffffff;
 font-family: Garamond;
 font-size:23px;
-margin-top: 6vh;
+margin-top: 3vh;
 }
     
 .p3{
